@@ -132,7 +132,7 @@ const Wallets = () => {
 
 const BitskiSigninHandler=async()=>{
     try {
-        const bitski = new Bitski('C368d49f9-23e1-472b-99b3-977661276f7c', 'http://localhost:3000/');
+        const bitski = new Bitski('368d49f9-23e1-472b-99b3-977661276f7c', 'https://ranion-react-app.vercel.app/');
         await bitski.signIn();
     } 
         catch (error) {
