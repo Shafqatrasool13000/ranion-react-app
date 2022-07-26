@@ -148,7 +148,7 @@ console.log(walletInfo)
         <WalletModal show={show} setShow={setShow} info={walletInfo} />
         {/* <TorusWallet/>
         <BitskiWallet/> */}
-        <div>
+        {/* <div>
         <div>
         {connectors.map((connector) => (
             <button
@@ -166,7 +166,7 @@ console.log(walletInfo)
 
         {error && <div>{error.message}</div>}
         </div> 
-        </div>
+        </div> */}
             <div className="effect">
                 <div className="container">
                     <NavLink to="/" className="btn btn-white btn-sm mt-20">
