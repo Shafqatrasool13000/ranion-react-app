@@ -3,7 +3,7 @@ import { NavLink, useNavigate } from "react-router-dom";
 import { useAccount, useConnect, useEnsName } from 'wagmi';
 // import { InjectedConnector } from 'wagmi/connectors/injected';
 import WalletModal from "./WalletModal";
-import Fortmatic, { FortmaticError } from "fortmatic";
+import Fortmatic from "fortmatic";
 import Torus from "@toruslabs/torus-embed";
 import { Bitski } from "bitski";
 
@@ -206,7 +206,7 @@ console.log(walletInfo)
                                     </div>))
                                     }
                                     <div className="col-lg-4" onClick={onTorusLogin}>
-                                        <a href="#" className="box in__wallet space-y-10"
+                                        <a href="/" className="box in__wallet space-y-10"
                                             data-toggle="modal"
                                             data-target="#popup_connected">
                                             <div className="logo">

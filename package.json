@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.6.9",
     "@ethersproject/providers": "^5.6.8",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -15,11 +16,16 @@
     "@types/react-dom": "^18.0.5",
     "@web3-react/core": "^6.1.9",
     "@web3-react/injected-connector": "^6.0.7",
+    "axios": "^0.27.2",
     "bitski": "^0.16.1",
     "bootstrap": "^5.2.0",
     "buffer": "^6.0.3",
+    "dotenv": "^16.0.1",
+    "eth-sig-util": "^3.0.1",
     "ethers": "^5.6.9",
+    "ethers-eip712": "^0.2.0",
     "fortmatic": "^2.4.0",
+    "graphql": "^16.5.0",
     "react": "^18.2.0",
     "react-alice-carousel": "^2.6.1",
     "react-bootstrap": "^2.4.0",
@@ -56,6 +62,7 @@
     ]
   },
   "devDependencies": {
+    "@graphql-eslint/eslint-plugin": "^3.10.7",
     "@types/styled-components": "^5.1.25"
   }
 }

@@ -1,6 +1,7 @@
 import {
   Routes,
   Route,
+  useLocation,
 } from "react-router-dom";
 import Home from "./Screens/Home";
 import AssetDetails from "./Screens/Home/DiscoverAssets/AssetDetails";
@@ -12,17 +13,40 @@ import Marketplace from './Screens/MarketPlace/Index';
 import Collections from './Screens/Collections/Index';
 import Creators from './Screens/Creators/Index';
 import Wallets from "./Screens/Wallets/Index";
-import moveToTop from './components/MoveToTop/useMoveToTop';
 import {Buffer} from 'buffer';
+import NftsCreate from './Screens/CreateNft/Index';
+import GetSignature from "./components/GetSignature";
+import { useEffect } from "react";
+import useMoveToTop from "./components/MoveToTop/useMoveToTop";
+import Details from "./Screens/Home/DiscoverAssets/Details";
+import Bids from "./Screens/Home/DiscoverAssets/Bids";
+import History from "./Screens/Home/DiscoverAssets/History";
 Buffer.from('anything','base64');
 
+// Window.ethereum type
+declare var window: any
+export const ethereum = window.ethereum;
+
 function App() {
-  moveToTop();
+  
+  useMoveToTop();
+  const location=useLocation();
+
+  useEffect(() => {
+   
+  }, [location.key])
   
   return (
+    <>
+    <GetSignature/>
     <Routes>
     <Route  path="/" element={<Home />} />
     <Route path="assets-details/:id" element={<AssetDetails />} >
+    {/* <Route index element={<Details />} />
+    <Route path="details" element={<Details />} />
+    <Route path="bids" element={<Bids />} />
+    <Route path="history" element={<History />} /> */}
+
     </Route>
     <Route path="marketplace" element={<Marketplace />} >
     </Route>
@@ -44,8 +68,11 @@ function App() {
     </Route>
     <Route path="connect-wallet" element={<Wallets />} >
     </Route>
+    <Route path="create-nft" element={<NftsCreate />} >
+    </Route>
     <Route path='*' element={<Page404/>}/>
   </Routes>
+    </>
   )
 }
 

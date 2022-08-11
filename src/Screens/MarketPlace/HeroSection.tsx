@@ -12,42 +12,42 @@ const HeroSection = () => {
                         <div className="d-flex justify-content-center">
                             <ul className="menu_categories space-x-20">
                                 <li>
-                                    <a href="#" className="color_brand">
+                                    <a href="/" className="color_brand">
 
                                         <span> All </span>
                                     </a>
                                 </li>
-                                <li> <a href="#">
+                                <li> <a href="/">
                                     <i className="ri-gamepad-line"></i> <span> Games </span>
                                 </a>
 
                                 </li>
-                                <li> <a href="#">
+                                <li> <a href="/">
                                     <i className="ri-brush-line"></i> <span> Art </span>
                                 </a>
 
                                 </li>
-                                <li> <a href="#">
+                                <li> <a href="/">
                                     <i className="ri-stock-line"></i> <span> Trading Cards </span>
                                 </a>
 
                                 </li>
-                                <li> <a href="#">
+                                <li> <a href="/">
                                     <i className="ri-music-line"></i> <span> Music </span>
                                 </a>
 
                                 </li>
-                                <li> <a href="#">
+                                <li> <a href="/">
                                     <i className="ri-global-line"></i> <span> Domain Names </span>
                                 </a>
 
                                 </li>
-                                <li> <a href="#">
+                                <li> <a href="/">
                                     <i className="ri-emotion-laugh-line"></i> <span> Memes </span>
                                 </a>
 
                                 </li>
-                                <li> <a href="#">
+                                <li> <a href="/">
                                     <i className="ri-layout-4-line"></i> <span> Collectibles </span>
                                 </a>
 

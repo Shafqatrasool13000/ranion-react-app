@@ -39,7 +39,7 @@ function MyVerticallyCenteredModal(props: any) {
                     <p> Total bid amount:</p>
                     <p className="text-right color_black txt _bold"> 56,031 ETH </p>
                 </div>
-                <a href="" className="btn btn-primary w-full"
+                <a href="/" className="btn btn-primary w-full"
                     data-toggle="modal"
                     data-target="#popup_bid_success"
                     data-dismiss="modal"

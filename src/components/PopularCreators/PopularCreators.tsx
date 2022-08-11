@@ -184,7 +184,7 @@ const PopularCreators = () => {
                             <p className="text-center">your bid <span className="color_text txt
                                 _bold">(16ETH) </span> has been listing
                                 to our database</p>
-                            <a href="#" className="btn btn-dark w-full"> Watch the listings</a>
+                            <a href="/" className="btn btn-dark w-full"> Watch the listings</a>
                         </div>
                     </div>
                 </div>
@@ -222,7 +222,7 @@ const PopularCreators = () => {
                                 <p> Total bid amount:</p>
                                 <p className="text-right color_black txt _bold"> 56,031 ETH </p>
                             </div>
-                            <a href="#" className="btn btn-primary w-full"
+                            <a href="/" className="btn btn-primary w-full"
                                 data-toggle="modal"
                                 data-target="#popup_bid_success"
                                 data-dismiss="modal"

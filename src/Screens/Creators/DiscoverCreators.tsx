@@ -32,9 +32,9 @@ const DiscoverCreators = () => {
 											Recent Active
 										</button>
 										<div className="dropdown-menu">
-											<a className="dropdown-item" href="#">Action</a>
-											<a className="dropdown-item" href="#">Another action</a>
-											<a className="dropdown-item" href="#">Something else
+											<a className="dropdown-item" href="/">Action</a>
+											<a className="dropdown-item" href="/">Another action</a>
+											<a className="dropdown-item" href="/">Something else
 												here</a>
 										</div>
 									</div>
@@ -53,7 +53,7 @@ const DiscoverCreators = () => {
 													alt="Avatar" className="img-fluid"/>
 											</div>
 											<div className="media">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_5.png"
 														alt="Avatar" className="avatar
@@ -88,7 +88,7 @@ const DiscoverCreators = () => {
 													alt="Avatar" className="img-fluid"/>
 											</div>
 											<div className="media">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_6.png"
 														alt="Avatar" className="avatar
@@ -123,7 +123,7 @@ const DiscoverCreators = () => {
 													alt="Avatar" className="img-fluid"/>
 											</div>
 											<div className="media">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_7.png"
 														alt="Avatar" className="avatar
@@ -158,7 +158,7 @@ const DiscoverCreators = () => {
 													alt="Avatar" className="img-fluid"/>
 											</div>
 											<div className="media">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_8.png"
 														alt="Avatar" className="avatar
@@ -193,7 +193,7 @@ const DiscoverCreators = () => {
 													alt="Avatar" className="img-fluid"/>
 											</div>
 											<div className="media">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_9.png"
 														alt="Avatar" className="avatar
@@ -228,7 +228,7 @@ const DiscoverCreators = () => {
 													alt="Avatar" className="img-fluid"/>
 											</div>
 											<div className="media">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_10.png"
 														alt="Avatar" className="avatar

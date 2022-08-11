@@ -8,7 +8,7 @@ const HeroCards = () => {
 						<div className="creator_item creator_card space-y-10 is_big">
 							<div className="avatars flex-column space-y-10">
 								<div className="media has_border">
-									<a href="Profile.html">
+									<a href="/">
 										<img src="assets/img/avatars/avatar_1.png"
 											alt="Avatar" className="avatar avatar-md"/>
 									</a>
@@ -17,7 +17,7 @@ const HeroCards = () => {
 									</div>
 								</div>
 								<div className="text-center">
-									<a href="Profile.html">
+									<a href="/">
 										<p className="avatars_name large color_black">@jimena_stark</p>
 									</a>
 									<span className="sales color_text">4 sales on
@@ -30,7 +30,7 @@ const HeroCards = () => {
 						<div className="creator_item creator_card space-y-10 is_big">
 							<div className="avatars flex-column space-y-10">
 								<div className="media has_border">
-									<a href="Profile.html">
+									<a href="/">
 										<img src="assets/img/avatars/avatar_2.png"
 											alt="Avatar" className="avatar avatar-md"/>
 									</a>
@@ -39,7 +39,7 @@ const HeroCards = () => {
 									</div>
 								</div>
 								<div className="text-center">
-									<a href="Profile.html">
+									<a href="/">
 										<p className="avatars_name large color_black">@makinzi_beck</p>
 									</a>
 									<span className="sales color_text">16 sales on
@@ -52,7 +52,7 @@ const HeroCards = () => {
 						<div className="creator_item creator_card space-y-10 is_big">
 							<div className="avatars flex-column space-y-10">
 								<div className="media has_border">
-									<a href="Profile.html">
+									<a href="/">
 										<img src="assets/img/avatars/avatar_3.png"
 											alt="Avatar" className="avatar avatar-md"/>
 									</a>
@@ -61,7 +61,7 @@ const HeroCards = () => {
 									</div>
 								</div>
 								<div className="text-center">
-									<a href="Profile.html">
+									<a href="/">
 										<p className="avatars_name large color_black">@jaxon_duffy</p>
 									</a>
 									<span className="sales color_text">4 sales on
@@ -74,7 +74,7 @@ const HeroCards = () => {
 						<div className="creator_item creator_card space-y-10 is_big">
 							<div className="avatars flex-column space-y-10">
 								<div className="media has_border">
-									<a href="Profile.html">
+									<a href="/">
 										<img src="assets/img/avatars/avatar_4.png"
 											alt="Avatar" className="avatar avatar-md"/>
 									</a>
@@ -83,7 +83,7 @@ const HeroCards = () => {
 									</div>
 								</div>
 								<div className="text-center">
-									<a href="Profile.html">
+									<a href="/">
 										<p className="avatars_name large color_black">@darian_barry</p>
 									</a>
 									<span className="sales color_text">62 sales on

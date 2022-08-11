@@ -40,28 +40,28 @@ const About = () => {
                                     <div className="box">
                                         <ul className="social_profile space-y-10 overflow-hidden">
                                             <li>
-                                                <a href="#">
+                                                <a href="/">
                                                     <i className="ri-facebook-line"></i>
                                                     <span className="color_text">facebook/</span>
                                                     @creabik
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#">
+                                                <a href="/">
                                                     <i className="ri-messenger-line"></i>
                                                     <span className="color_text"> messenger/</span>
                                                     @creabik
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#">
+                                                <a href="/">
                                                     <i className="ri-whatsapp-line"></i>
                                                     <span className="color_text"> whatsapp/</span>
                                                     @creabik
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#">
+                                                <a href="/">
                                                     <i className="ri-youtube-line"></i>
                                                     <span className="color_text">youtube/</span>
                                                     @creabik
@@ -114,10 +114,10 @@ const About = () => {
                                             </button>
                                             <div
                                                 className={`dropdown-menu ${recentActive?'show':''}`}>
-                                                <a className="dropdown-item" href="#">Action</a>
-                                                <a className="dropdown-item" href="#">Another
+                                                <a className="dropdown-item" href="/">Action</a>
+                                                <a className="dropdown-item" href="/">Another
                                                     action</a>
-                                                <a className="dropdown-item" href="#">Something
+                                                <a className="dropdown-item" href="/">Something
                                                     else here</a>
                                             </div>
                                         </div>

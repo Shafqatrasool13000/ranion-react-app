@@ -37,7 +37,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_1.png"
 														alt="Avatar" className="avatar
@@ -45,7 +45,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Mark</span>
 														</a>
 														accepted an offer for about
@@ -75,7 +75,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_2.png"
 														alt="Avatar" className="avatar
@@ -83,7 +83,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Lance</span>
 														</a>
 														accepted an offer for about
@@ -113,7 +113,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_3.png"
 														alt="Avatar" className="avatar
@@ -121,7 +121,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Kylan</span>
 														</a>
 														accepted an offer for about
@@ -151,7 +151,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_4.png"
 														alt="Avatar" className="avatar
@@ -159,7 +159,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Brent</span>
 														</a>
 														accepted an offer for about
@@ -189,7 +189,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_5.png"
 														alt="Avatar" className="avatar
@@ -197,7 +197,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Kenny</span>
 														</a>
 														accepted an offer for about
@@ -227,7 +227,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_6.png"
 														alt="Avatar" className="avatar
@@ -235,7 +235,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Felipe</span>
 														</a>
 														accepted an offer for about
@@ -265,7 +265,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_7.png"
 														alt="Avatar" className="avatar
@@ -273,7 +273,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Zaid</span>
 														</a>
 														accepted an offer for about
@@ -303,7 +303,7 @@ const RecentNfts = () => {
 										{/* <!-- =============== --> */}
 										<div className="creators space-x-10">
 											<div className="avatars space-x-10">
-												<a href="Profile.html">
+												<a href="/">
 													<img
 														src="assets/img/avatars/avatar_8.png"
 														alt="Avatar" className="avatar
@@ -311,7 +311,7 @@ const RecentNfts = () => {
 												</a>
 												<div>
 													<p className="avatars_desc color_black">
-														<a href="Profile.html">
+														<a href="/">
 															<span className="txt _bold">@Brody</span>
 														</a>
 														accepted an offer for about
@@ -400,27 +400,27 @@ const RecentNfts = () => {
 										<div className="creators">
 											<div className="avatars space-x-3">
 												<div className="-space-x-20">
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_10.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_11.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
 												</div>
-												<a href="Profile.html">
+												<a href="/">
 													<p className="avatars_name txt_sm
 														color_black"> @darian_barry
 													</p>
 												</a>
 											</div>
 										</div>
-										<a href="#" className="space-x-3">
+										<a href="/" className="space-x-3">
 											<p className="color_green txt_sm">0.001 ETH</p>
 										</a>
 									</div>
@@ -477,27 +477,27 @@ const RecentNfts = () => {
 										<div className="creators">
 											<div className="avatars space-x-3">
 												<div className="-space-x-20">
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_12.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_13.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
 												</div>
-												<a href="Profile.html">
+												<a href="/">
 													<p className="avatars_name txt_sm
 														color_black"> @makinzi_beck
 													</p>
 												</a>
 											</div>
 										</div>
-										<a href="#" className="space-x-3">
+										<a href="/" className="space-x-3">
 											<p className="color_green txt_sm">0.047 ETH</p>
 										</a>
 									</div>
@@ -554,27 +554,27 @@ const RecentNfts = () => {
 										<div className="creators">
 											<div className="avatars space-x-3">
 												<div className="-space-x-20">
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_14.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_15.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
 												</div>
-												<a href="Profile.html">
+												<a href="/">
 													<p className="avatars_name txt_sm
 														color_black"> @jaxon_duffy
 													</p>
 												</a>
 											</div>
 										</div>
-										<a href="#" className="space-x-3">
+										<a href="/" className="space-x-3">
 											<p className="color_green txt_sm">0.074 ETH</p>
 										</a>
 									</div>
@@ -631,27 +631,27 @@ const RecentNfts = () => {
 										<div className="creators">
 											<div className="avatars space-x-3">
 												<div className="-space-x-20">
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_1.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
-													<a href="Profile.html">
+													<a href="/">
 														<img
 															src="assets/img/avatars/avatar_2.png"
 															alt="Avatar" className="avatar
 															avatar-sm"/>
 													</a>
 												</div>
-												<a href="Profile.html">
+												<a href="/">
 													<p className="avatars_name txt_sm
 														color_black"> @deon _ellis
 													</p>
 												</a>
 											</div>
 										</div>
-										<a href="#" className="space-x-3">
+										<a href="/" className="space-x-3">
 											<p className="color_green txt_sm">0.075 ETH</p>
 										</a>
 									</div>
@@ -659,7 +659,7 @@ const RecentNfts = () => {
 							</div>
 						</div>
 						<div className="mt-20 d-flex justify-content-center">
-							<a href="" className="btn btn-primary btn-sm"> view all</a>
+							<a href="/" className="btn btn-primary btn-sm"> view all</a>
 						</div>
 					</div>
 			

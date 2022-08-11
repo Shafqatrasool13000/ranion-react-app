@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 
 const useMoveToTop = () => {
+    console.log('move to top called')
     useEffect(() => {
         setTimeout(() => {
             window.scrollTo({

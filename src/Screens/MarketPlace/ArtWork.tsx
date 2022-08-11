@@ -53,9 +53,9 @@ const ArtWork = () => {
                                         Recent Active
                                     </button>
                                     <div className="dropdown-menu">
-                                        <a className="dropdown-item" href="#">Action</a>
-                                        <a className="dropdown-item" href="#">Another action</a>
-                                        <a className="dropdown-item" href="#">Something else
+                                        <a className="dropdown-item" href="/">Action</a>
+                                        <a className="dropdown-item" href="/">Another action</a>
+                                        <a className="dropdown-item" href="/">Something else
                                             here</a>
                                     </div>
                                 </div>
@@ -116,7 +116,7 @@ const ArtWork = () => {
                                             <p> Total bid amount:</p>
                                             <p className="text-right color_black txt _bold"> 56,031 ETH </p>
                                         </div>
-                                        <a href="" className="btn btn-primary w-full"
+                                        <a href="/" className="btn btn-primary w-full"
                                             data-toggle="modal"
                                             data-target="#popup_bid_success"
                                             data-dismiss="modal"
@@ -141,7 +141,7 @@ const ArtWork = () => {
                                                     <img src="assets/img/icons/Badge.svg"
                                                         alt=""/>
                                                 </div>
-                                                <a href="Profile.html">
+                                                <a href="/">
                                                     <img
                                                         src="assets/img/avatars/avatar_1.png"
                                                         alt="Avatar"
@@ -153,7 +153,7 @@ const ArtWork = () => {
                                                     className="color_brand">1
                                                     ETH</span> by <a className="color_black txt
                                                     _bold"
-                                                        href="Profile.html">ayoub</a></p>
+                                                        href="/">ayoub</a></p>
                                                 <span className="date color_text">28/06/2021, 12:08</span>
                                             </div>
                                         </div>
@@ -165,7 +165,7 @@ const ArtWork = () => {
                                                     <img src="assets/img/icons/Badge.svg"
                                                         alt=""/>
                                                 </div>
-                                                <a href="Profile.html">
+                                                <a href="/">
                                                     <img
                                                         src="assets/img/avatars/avatar_2.png"
                                                         alt="Avatar"
@@ -177,7 +177,7 @@ const ArtWork = () => {
                                                     className="color_brand">3
                                                     ETH</span> by <a className="color_black txt
                                                     _bold"
-                                                        href="Profile.html">monir</a></p>
+                                                        href="/">monir</a></p>
                                                 <span className="date color_text">22/05/2021, 12:08</span>
                                             </div>
                                         </div>
@@ -191,22 +191,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_1.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@mickel_fenn</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_2.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@danil_pannini</p>
                                             </a>
                                         </div>
@@ -217,7 +217,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">1.2k</span>
                                         </a>
@@ -230,7 +230,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 4 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">2.45 ETH</span></p>
@@ -242,7 +242,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                         style={{width:
@@ -250,7 +250,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>
@@ -263,22 +263,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_3.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@mazanov_sky</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_4.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@mucky_fennouni</p>
                                             </a>
                                         </div>
@@ -289,7 +289,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">13.2k</span>
                                         </a>
@@ -302,7 +302,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 12 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">2.55 ETH</span></p>
@@ -314,7 +314,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                         style={{width:
@@ -322,7 +322,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>
@@ -335,22 +335,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_5.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@jimmy_dom</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_6.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@kristian_sefroui</p>
                                             </a>
                                         </div>
@@ -361,7 +361,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">1.2k</span>
                                         </a>
@@ -374,7 +374,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 6 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">2.45 ETH</span></p>
@@ -386,7 +386,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                         style={{width:
@@ -394,7 +394,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>
@@ -407,22 +407,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_1.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@Alvin_nov</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_7.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@mucky_holiman</p>
                                             </a>
                                         </div>
@@ -433,7 +433,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">4.1k</span>
                                         </a>
@@ -446,7 +446,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 34 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">0.55 ETH</span></p>
@@ -458,7 +458,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                         style={{width:
@@ -466,7 +466,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>
@@ -479,22 +479,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_8.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@stivan_rominok</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_9.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@danil_pan</p>
                                             </a>
                                         </div>
@@ -505,7 +505,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">6.4k</span>
                                         </a>
@@ -518,7 +518,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 7 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">1.45 ETH</span></p>
@@ -530,7 +530,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                     style={{width:
@@ -538,7 +538,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>
@@ -551,22 +551,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_10.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@mazanov_sky</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_11.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@mucky_art</p>
                                             </a>
                                         </div>
@@ -577,7 +577,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">13.2k</span>
                                         </a>
@@ -590,7 +590,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 2 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">0.055 ETH</span></p>
@@ -602,7 +602,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                         style={{width:
@@ -610,7 +610,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>
@@ -623,22 +623,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_12.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@jimmy_dom</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_5.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@kristian_fel</p>
                                             </a>
                                         </div>
@@ -649,7 +649,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">1.6k</span>
                                         </a>
@@ -662,7 +662,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 34 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">0.95 ETH</span></p>
@@ -674,7 +674,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                         style={{width:
@@ -682,7 +682,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>
@@ -695,22 +695,22 @@ const ArtWork = () => {
                                 <div className="card_body space-y-10">
                                     <div className="creators space-x-10">
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_13.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@Alvin_nov</p>
                                             </a>
                                         </div>
                                         <div className="avatars space-x-3">
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <img
                                                     src="assets/img/avatars/avatar_14.png"
                                                     alt="Avatar" className="avatar avatar-sm"/>
                                             </a>
-                                            <a href="Profile.html">
+                                            <a href="/">
                                                 <p className="avatars_name txt_xs">@mucky_art</p>
                                             </a>
                                         </div>
@@ -721,7 +721,7 @@ const ArtWork = () => {
                                                 alt=""/>
                                         </a>
 
-                                        <a href="#" className="likes space-x-3">
+                                        <a href="/" className="likes space-x-3">
                                             <i className="ri-heart-3-fill"></i>
                                             <span className="txt_sm">11.5k</span>
                                         </a>
@@ -734,7 +734,7 @@ const ArtWork = () => {
                                             <div className="creators">
                                                 <p className="txt_sm"> 9 in stock</p>
                                             </div>
-                                            <a href="#" className="">
+                                            <a href="/" className="">
                                                 <p className="txt_sm">Price: <span
                                                     className="color_green
                                                     txt_sm">3.55 ETH</span></p>
@@ -746,7 +746,7 @@ const ArtWork = () => {
                                             <div className="d-flex align-items-center
                                             space-x-10">
                                                 <i className="ri-history-line"></i>
-                                                <a className="view_history" href="#" data-toggle="modal"
+                                                <a className="view_history" href="/" data-toggle="modal"
                                                     data-target="#popup_history">
                                                     <p className="color_text txt_sm"
                                                         style={{width:
@@ -754,7 +754,7 @@ const ArtWork = () => {
                                                         History</p>
                                                 </a>
                                             </div>
-                                            <a className="btn btn-sm btn-primary" href="#"
+                                            <a className="btn btn-sm btn-primary" href="/"
                                                 data-toggle="modal" data-target="#popup_bid">Place
                                                 Bid</a>
                                         </div>

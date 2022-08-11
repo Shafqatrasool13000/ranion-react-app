@@ -1,4 +1,3 @@
-import React from 'react'
 
 const Footer = () => {
     return (
@@ -17,13 +16,13 @@ const Footer = () => {
                             </p>
                             <div>
                                 <ul className="footer__social space-x-10 mb-40">
-                                    <li> <a href=""> <i className="ri-facebook-line"></i> </a>
+                                    <li> <a href="/"> <i className="ri-facebook-line"></i> </a>
                                     </li>
-                                    <li> <a href=""> <i className="ri-messenger-line"></i> </a>
+                                    <li> <a href="/"> <i className="ri-messenger-line"></i> </a>
                                     </li>
-                                    <li> <a href=""> <i className="ri-whatsapp-line"></i> </a>
+                                    <li> <a href="/"> <i className="ri-whatsapp-line"></i> </a>
                                     </li>
-                                    <li> <a href=""> <i className="ri-youtube-line"></i> </a>
+                                    <li> <a href="/"> <i className="ri-youtube-line"></i> </a>
                                     </li>
                                 </ul>
                             </div>
@@ -44,7 +43,7 @@ const Footer = () => {
                         <div className="col-lg-2 col-6">
                             <h6 className="footer__title">Assets</h6>
                             <ul className="footer__list">
-                                <li> <a href="Profile.html"> Profile </a>
+                                <li> <a href="/"> Profile </a>
                                 </li>
                                 <li> <a href="Creators.html"> Creators </a>
                                 </li>

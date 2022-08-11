@@ -62,9 +62,9 @@ return (
                                         Recent Active
                                     </button>
                                     <div className="dropdown-menu">
-                                        <a className="dropdown-item" href="#">Action</a>
-                                        <a className="dropdown-item" href="#">Another action</a>
-                                        <a className="dropdown-item" href="#">Something else
+                                        <a className="dropdown-item" href="/">Action</a>
+                                        <a className="dropdown-item" href="/">Another action</a>
+                                        <a className="dropdown-item" href="/">Something else
                                             here</a>
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@ return (
                             </a>
                             <div className="collections_footer justify-content-between">
                                 <h5 className="collection_title"><a href="Collections.html">Creative Art collection</a></h5>
-                                <a href="#" className="likes space-x-3">
+                                <a href="/" className="likes space-x-3">
                                     <i className="ri-heart-3-fill"></i>
                                     <span className="txt_md">2.1k</span>
                                 </a>
@@ -105,13 +105,13 @@ return (
                             <div className="creators space-x-10">
                                 <span className="color_text txt_md"> 5 items · Created by</span>
                                 <div className="avatars space-x-5">
-                                    <a href="Profile.html">
+                                    <a href="/">
                                         <img
                                             src="assets/img/avatars/avatar_2.png"
                                             alt="Avatar" className="avatar avatar-sm"/>
                                     </a>
                                 </div>
-                                <a href="Profile.html">
+                                <a href="/">
                                     <p className="avatars_name txt_sm"> @william_jamy... </p>
                                 </a>
                             </div>
@@ -140,7 +140,7 @@ return (
                             </a>
                             <div className="collections_footer justify-content-between">
                                 <h5 className="collection_title"><a href="Collections.html">Colorful Abstract Painting</a></h5>
-                                <a href="#" className="likes space-x-3">
+                                <a href="/" className="likes space-x-3">
                                     <i className="ri-heart-3-fill"></i>
                                     <span className="txt_md">3.5k</span>
                                 </a>
@@ -148,13 +148,13 @@ return (
                             <div className="creators space-x-10">
                                 <span className="color_text txt_md"> 7 items · Created by</span>
                                 <div className="avatars space-x-5">
-                                    <a href="Profile.html">
+                                    <a href="/">
                                         <img
                                             src="assets/img/avatars/avatar_3.png"
                                             alt="Avatar" className="avatar avatar-sm"/>
                                     </a>
                                 </div>
-                                <a href="Profile.html">
+                                <a href="/">
                                     <p className="avatars_name txt_sm"> @alexis_fenn... </p>
                                 </a>
                             </div>
@@ -183,7 +183,7 @@ return (
                             </a>
                             <div className="collections_footer justify-content-between">
                                 <h5 className="collection_title"><a href="Collections.html">Modern Art collection</a></h5>
-                                <a href="#" className="likes space-x-3">
+                                <a href="/" className="likes space-x-3">
                                     <i className="ri-heart-3-fill"></i>
                                     <span className="txt_md">7.2k</span>
                                 </a>
@@ -191,13 +191,13 @@ return (
                             <div className="creators space-x-10">
                                 <span className="color_text txt_md"> 2 items · Created by</span>
                                 <div className="avatars space-x-5">
-                                    <a href="Profile.html">
+                                    <a href="/">
                                         <img
                                             src="assets/img/avatars/avatar_1.png"
                                             alt="Avatar" className="avatar avatar-sm"/>
                                     </a>
                                 </div>
-                                <a href="Profile.html">
+                                <a href="/">
                                     <p className="avatars_name txt_sm"> @Joshua_Bren... </p>
                                 </a>
                             </div>
